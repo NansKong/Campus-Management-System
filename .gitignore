@@ -1,0 +1,10 @@
+# Ignore local temp and cache folders
+.tmp/
+pytest-cache-files-*/
+backend/.tmp-py*/
+backend/.tmp-py-check*/
+backend/.tmp-uvicorn-*/
+__pycache__/
+*.pyc
+backend/.env
+frontend/.env

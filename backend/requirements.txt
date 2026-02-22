@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+firebase-admin
+python-multipart
+alembic
+redis
+celery
+python-dotenv
+email-validator
+
+# AI/ML Libraries (optional)
+opencv-python
+face-recognition
+scikit-learn
+pandas
+numpy
+
+# Testing
+pytest
+httpx
